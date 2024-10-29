@@ -35,3 +35,5 @@ julkaisut.append(Lehti("Aku Ankka", "Aki", "Hyyppä" ))
 
 for j in julkaisut:
     j.tulosta_tiedot()
+
+#monke
